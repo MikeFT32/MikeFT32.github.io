@@ -1,0 +1,109 @@
+*{
+
+}
+.caja1
+{
+    background-color: rgb(113, 100, 16);
+    width: 200px;
+    height: 50px;
+    margin-left: 45%;
+    border-radius: 5px;
+    border-style: solid;
+    border: 250;
+
+}
+.ceja2{
+    background-color: rgb(113, 100, 16);
+    width: 200px;
+    height: 25px;
+    margin-left: 685px;
+    border-radius: 5px;
+    border-style: solid;
+
+
+}
+.cabeza1{
+
+  background-color: rgb(113, 100, 16);
+    width: 200px;
+    height: 150px;
+    margin-left: 45%;
+    border-radius: 5px;
+    border-style: solid;
+    border: 250;
+
+}
+.cara1{
+    background-color: rgba(156, 136, 8, 0.868);
+    width: 50px;
+    height: 35px;
+    border: solid;
+    margin-left: 45%;
+    border-radius: 5px;
+    float: left;
+    margin-left: 30px;
+
+
+
+}
+.nariz{
+    background-color: rgba(156, 136, 8, 0.868);
+    width: 50px;
+    height: 35px;
+    border: solid;
+    float: left;
+    float: right;
+    border-radius: 5px;
+    margin-right: 30px;
+    
+}
+.cara2{
+    background-color: rgba(156, 136, 8, 0.868);
+    width: 40px;
+    height: 50px;
+    border: solid;
+    margin-right: 45%;
+    border-radius: 5px;
+    margin-right: 78px;
+    float: right;
+}
+.boca1{
+    width: 100px;
+    height: 35px;
+    border: solid;
+    margin-top: 100px;
+    margin-left: 45px;
+    border-radius: 5px;
+    border-color: rgba(255, 213, 0, 0.848);
+    background-color: rgba(127, 119, 25, 0.847);
+}
+.cuerpo1{
+    background-color: rgb(113, 100, 16);
+    width: 200px;
+    height: 250px;
+    margin-left: 45%;
+    border-radius: 5px;
+    border-style: solid;
+    border: 250;
+}
+.mano1{
+    background-color: rgb(113, 100, 16);
+    width: 100px;
+    height: 125px;
+    margin-left: 45%;
+    border-radius: 5px;
+    border-style: solid;
+    border: 250;
+}
+.cuerpo2{
+
+    background-color: rgb(113, 100, 16);
+    width: 200px;
+    height: 250px;
+    margin-left: 45%;
+    border-radius: 5px;
+    border-style: solid;
+    border: 250;
+    
+}
+
